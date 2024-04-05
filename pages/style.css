@@ -1,0 +1,60 @@
+.swiper {
+    width: 320px;
+    height: 280px;
+  }
+  
+  .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+
+  }
+  
+  .swiper-slide:nth-child(1n) {
+    background-color: rgb(255, 255, 255);
+    border: 4px solid #bdbdbd; /* Ajoute une bordure rouge de 2px */
+    border-radius: 10px; /* Ajoute des coins arrondis */
+    padding: 20px;
+    /*box-shadow: -4px 4px 4px rgb(104, 104, 104);*/
+  }
+  
+  .swiper-slide:nth-child(2n) {
+    background-color: rgb(255, 255, 255);
+    
+  }
+  
+  .swiper-slide:nth-child(3n) {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .swiper-slide:nth-child(4n) {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .swiper-slide:nth-child(5n) {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .swiper-slide:nth-child(6n) {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .swiper-slide:nth-child(7n) {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .swiper-slide:nth-child(8n) {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .swiper-slide:nth-child(9n) {
+    background-color: rgb(218, 12, 218);
+  }
+  
+  .swiper-slide:nth-child(10n) {
+    background-color: rgb(54, 94, 77);
+  }
