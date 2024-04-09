@@ -5,7 +5,7 @@
         <p class="text-lg py-2 font-bold mt-2">Nom :</p> <input class="border-2 border-black rounded-md w-full h-10 p-3" placeholder="David Gilmour" type="text" name="name" v-model="form.name" />
         <p class="text-lg py-2 font-bold mt-2">Email :</p> <input class="border-2 border-black rounded-md w-full h-10 p-3" placeholder="davegil@gmail.com" type="email" name="email"  v-model="form.email"/>
         <p class="text-lg py-2 font-bold mt-2">Message :</p> <textarea class="border-2 border-black rounded-md w-full h-20 p-3" placeholder="..." name="message" v-model="form.message"></textarea>
-      <button class="inline-block bg-green-600 hover:bg-green-700 text-white py-3 px-5 rounded float-left mt-12 transition-all duration-450 cursor-pointer" type="submit">Envoyer</button>
+      <button class="inline-block bg-green-600 hover:bg-green-700 text-white py-3 px-5 rounded float-left mt-12 transition-all duration-450 cursor-pointer mb-10" type="submit">Envoyer</button>
     </form>
 </template>
 

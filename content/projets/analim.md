@@ -433,7 +433,7 @@ class congressiste {
 </div>
 </body>
 ```
-## Contrôlleur
+## Contrôleur
 
 ```js
 <?php

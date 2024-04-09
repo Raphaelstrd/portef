@@ -39,8 +39,7 @@ const modules = [EffectCards];
             </p>
 
             <p class="text-lg py-2">
-                Je souhaite poursuivre mes études en Bachelor en alternance. Cela me permettrait d'acquérir de nombreuses compétences supplémentaires et de me plonger dans le monde du travail 
-            </p>
+                Je souhaite poursuivre mes études en Bachelor en alternance. Cela me permettrait d'acquérir de nombreuses compétences supplémentaires et de me plonger dans le monde du travail. </p>
        </div> 
        <img src="~/assets/Pink-Floyd.png" class="w-1/2 md:max-w-sm p-8 mx-auto">
 
@@ -69,7 +68,7 @@ const modules = [EffectCards];
 
   </swiper>
 
-  <p class="text-lg py-2 mt-16">J'ai acquis lors de ma formation de l'expérience dans des langages de programmation web comme le html, php , css. Des langages orientés objet comme le Java ou encore Symfony, un framework php . 
+  <p class="text-lg py-2 mt-16">J'ai acquis lors de ma formation de l'expérience dans des langages de programmation web comme le html, php, css. Des langages orientés objet comme le Java ou encore Symfony, un framework php. 
     J'ai également développé par ma propre initiative ce portefolio avec le framework Nuxt basé sur Vue.js et Node.js.</p>
   <p class="text-lg py-2"></p>
 

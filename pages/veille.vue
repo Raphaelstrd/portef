@@ -13,7 +13,7 @@
             les publications, les alertes de sécurité et autres informations pertinentes, facilitant ainsi la prise de décision et la mise en place de stratégies adaptées. </p>
 
 
-            <p class="text-lg py-2 mt-2">
+            <p class="text-lg py-2 mt-2 mb-10">
                 W3Schools est un site web populaire pour l'apprentissage des technologies web, offrant des tutoriels, des références et des exemples de code pour un large éventail de langages de programmation
                 et de technologies web.
             Même si W3Schools est un site d'apprentissage, ce site peut fournir des informations plus approfondies et à jour sur les tendances, les innovations, les bonnes pratiques, les nouvelles technologies émergentes,
