@@ -1,6 +1,6 @@
 ---
 title: Stage de 2ème année
-description: Référencement parc informatique, avancement du nouveau site de la mairie/ville d'Égletons etc...
+description: Développement d'une macro Excel (VBA) et support niveau 1.
 date: 2024-03
 cover: rrthv.jpg
 tags: 
@@ -28,7 +28,13 @@ tags:
 - Développement d'une application permettant la dématérialisation des carnets de suivi des voitures de service (environ 20 voitures), kilométrage, date, destination, conducteur (sur Power Apps).
 - Développement d'une macro sur Excel en VBA permettant de recueillir les informations de plusieurs fichiers sur un seul et même fichier (cela concerne des fichiers de transactions et paiements pour la boutique).
 
-<p class="text-lg py-2 mt-2">Pendant mon stage, j'ai pu effectué du support de niveau 1, comprenant l'installation des bras d'écrans, la configuration des imprimantes, et d'autres tâches similaires.</p>
+### Pendant mon stage, j'ai effectué du support de niveau 1, comprenant :
+
+- L'installation des bras d'écrans
+- La configuration des imprimantes
+- L'assistance aux utilisateurs pour des problèmes matériels et logiciels de base
+- La résolution de problèmes courants liés aux équipements informatiques
+
 
 ---
 
