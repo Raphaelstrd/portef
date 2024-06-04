@@ -1,7 +1,7 @@
 ---
 title: Congrès
 description: Site de gestion d'un congrès avec ajout et modification de congressistes.
-date: 2024
+date: 2023-10
 cover: congres.png
 tags: 
 ---

@@ -68,6 +68,7 @@ const modules = [EffectCards];
 
   </swiper>
 
+
   <p class="text-lg py-2 mt-16">J'ai acquis lors de ma formation de l'expérience dans des langages de programmation web comme le html, php, css. Des langages orientés objet comme le Java ou encore Symfony, un framework php. 
     J'ai également développé par ma propre initiative ce portefolio avec le framework Nuxt basé sur Vue.js et Node.js.</p>
   <p class="text-lg py-2"></p>

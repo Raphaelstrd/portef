@@ -7,7 +7,7 @@ const links = [
 
 <template>
     <footer class="bg-black">
-        <section class="mx-auto max-w-7xl px-2 sm:px-4 lg:py-6 text-gray-300 flex flex-row">
+        <section class="mx-auto max-w-7xl px-4 sm:px-4 lg:py-6 text-gray-300 flex flex-row">
             <p class="flex-1 mt-2">&copy; Estrade Raphaël. Tous droits réservés</p>
                 <div class="flex flex-row justify-center gap-4 mb-4 mt-2">
                     <a v-for="link in links" :key="link.name" :href="link.href">
