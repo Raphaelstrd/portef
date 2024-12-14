@@ -8,7 +8,7 @@ tags:
 
 # Congrès
 
-<div class="">
+<div class="">zgazeg
     <img src="/images/blog/congres.png" alt="congres" class="mt-12 md:max-w-m mx-auto rounded-lg ">
 </div>
 
